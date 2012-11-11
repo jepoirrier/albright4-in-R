@@ -1,10 +1,7 @@
-# P02_02: p. 33, ch. 2, problem 2
-movies <- read.table("P02_02.csv", header = TRUE, sep=",")
-head(movies)
-summary(movies)
-
----
-
+# P02_01: p. 33, ch. 2, problem 1
+data2008 <- read.table("P02_01_data2008.csv", header = TRUE, sep=",")
+head(data2008)
+summary(data2008)
 data2009 <- read.table("P02_01_data2009.csv", header = TRUE, sep=",")
 head(data2009)
 summary(data2009)

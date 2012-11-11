@@ -1,1 +1,10 @@
-.DS_store
+# History files
+.Rhistory
+
+# Other files
+.RData
+.Rapp.history
+.DS_Store
+
+# Example code in package build process
+*-Ex.R
